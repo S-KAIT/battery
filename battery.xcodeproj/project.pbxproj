@@ -14,6 +14,7 @@
 		9E7131FC1FA5B06B004240BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E7131FA1FA5B06B004240BE /* LaunchScreen.storyboard */; };
 		9E7132071FA5B06C004240BE /* batteryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E7132061FA5B06C004240BE /* batteryTests.swift */; };
 		9E7132121FA5B06C004240BE /* batteryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E7132111FA5B06C004240BE /* batteryUITests.swift */; };
+		9EB7A9BB1FDCFC2600BA8762 /* ToppanBunkyuMidashiMincho-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9EB7A9BA1FDCF6A000BA8762 /* ToppanBunkyuMidashiMincho-ExtraBold.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9E71320D1FA5B06C004240BE /* batteryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = batteryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E7132111FA5B06C004240BE /* batteryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = batteryUITests.swift; sourceTree = "<group>"; };
 		9E7132131FA5B06C004240BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9EB7A9BA1FDCF6A000BA8762 /* ToppanBunkyuMidashiMincho-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ToppanBunkyuMidashiMincho-ExtraBold.otf"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				9E7131F51FA5B06B004240BE /* Main.storyboard */,
 				9E7131F81FA5B06B004240BE /* Assets.xcassets */,
 				9E7131FA1FA5B06B004240BE /* LaunchScreen.storyboard */,
+				9EB7A9BA1FDCF6A000BA8762 /* ToppanBunkyuMidashiMincho-ExtraBold.otf */,
 				9E7131FD1FA5B06B004240BE /* Info.plist */,
 			);
 			path = battery;
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9EB7A9BB1FDCFC2600BA8762 /* ToppanBunkyuMidashiMincho-ExtraBold.otf in Resources */,
 				9E7131FC1FA5B06B004240BE /* LaunchScreen.storyboard in Resources */,
 				9E7131F91FA5B06B004240BE /* Assets.xcassets in Resources */,
 				9E7131F71FA5B06B004240BE /* Main.storyboard in Resources */,
@@ -512,6 +516,7 @@
 				9E7132181FA5B06C004240BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9E7132191FA5B06C004240BE /* Build configuration list for PBXNativeTarget "batteryTests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +525,7 @@
 				9E71321B1FA5B06C004240BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9E71321C1FA5B06C004240BE /* Build configuration list for PBXNativeTarget "batteryUITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +534,7 @@
 				9E71321E1FA5B06C004240BE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
